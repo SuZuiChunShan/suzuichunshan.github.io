@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>[Copyright © 2023 宿醉春山](https://suzuichunshan.github.io)</copyright>
-    <lastBuildDate>Wed, 22 Feb 2023 12:00:00 +0800</lastBuildDate><atom:link href="https://suzuichunshan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 12:00:00 +0800</lastBuildDate><atom:link href="https://suzuichunshan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何使用 GitHub Desktop 来简化推送流程</title>
       <link>https://suzuichunshan.github.io/posts/how-to-use-github-desktop-to-update-new-posts/</link>
-      <pubDate>Wed, 22 Feb 2023 12:00:00 +0800</pubDate>
+      <pubDate>Sun, 19 Feb 2023 12:00:00 +0800</pubDate>
       
       <guid>https://suzuichunshan.github.io/posts/how-to-use-github-desktop-to-update-new-posts/</guid>
       <description>使用 GitHub Desktop 来代替相对繁琐的命令行指令，以简化推送流程，降低门槛要求。</description>
