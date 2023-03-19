@@ -5,7 +5,29 @@
     
       <url>
             <loc>https://suzuichunshan.github.io/posts/</loc>
-            <lastmod>2023-03-18T19:00:00+08:00</lastmod>
+            <lastmod>2023-03-19T23:00:00+08:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://suzuichunshan.github.io/posts/home-coming/</loc>
+            <lastmod>2023-03-19T23:00:00+08:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://suzuichunshan.github.io/</loc>
+            <lastmod>2023-03-19T23:00:00+08:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -18,17 +40,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
-    
-      <url>
-            <loc>https://suzuichunshan.github.io/</loc>
-            <lastmod>2023-03-18T19:00:00+08:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
     
   
     

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>[Copyright © 2023 宿醉春山](https://suzuichunshan.github.io)</copyright>
-    <lastBuildDate>Sun, 19 Feb 2023 12:00:00 +0800</lastBuildDate><atom:link href="https://suzuichunshan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Mar 2023 23:00:00 +0800</lastBuildDate><atom:link href="https://suzuichunshan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>聊聊「万里归途」</title>
+      <link>https://suzuichunshan.github.io/posts/home-coming/</link>
+      <pubDate>Sun, 19 Mar 2023 23:00:00 +0800</pubDate>
+      
+      <guid>https://suzuichunshan.github.io/posts/home-coming/</guid>
+      <description>一次关于文风的新尝试，不过还是有些太书面了。</description>
+    </item>
+    
     <item>
       <title>如何使用 GitHub Desktop 来简化推送流程</title>
       <link>https://suzuichunshan.github.io/posts/how-to-use-github-desktop-to-update-new-posts/</link>
